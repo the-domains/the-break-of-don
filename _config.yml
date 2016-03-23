@@ -1,20 +1,4 @@
-name: The Break of Don
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.61972
-title: 'The Break of Don - Adventures in Parenting, Marriage, and Life'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#B8B42D'
@@ -22,8 +6,13 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7184877516701818
-  lightness: 0.1559562492184341
-  saturation: 0.8828575499355793
+  brandStrength: 0.718487
+  lightness: 0.155956
   rhythmicContrast: 0.75
+  saturation: 0.882857
+cta: {}
+layout_spectrum: 1
+name: The Break of Don
+opengraph: {}
 purpose: []
+typography_spectrum: 0.112331

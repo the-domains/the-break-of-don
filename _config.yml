@@ -8,10 +8,10 @@ color:
     - '#DD403A'
   brandStrength: 0.718487
   lightness: 0.155956
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.419764
   saturation: 0.882857
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0.933277
 name: The Break of Don
 opengraph: {}
 purpose: []

@@ -1,4 +1,19 @@
-analytics: {}
+name: The Break of Don
+favicon: null
+layout_spectrum: 0.32007
+typography_spectrum: 0.25098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#7db7e9'
@@ -6,13 +21,8 @@ color:
     - '#f3f4f8'
     - '#a28172'
     - '#bc3521'
-  brandStrength: 0.5
-  lightness: 0.1875
-  rhythmicContrast: 0.750845
-  saturation: 0.673142
-cta: {}
-layout_spectrum: 1
-name: The Break of Don
-opengraph: {}
+  brandStrength: 0.125
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
-typography_spectrum: 0.36256
